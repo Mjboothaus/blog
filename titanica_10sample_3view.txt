@@ -1,0 +1,1646 @@
+Deleted old database data/titanica_raw.duckdb
+Initialized titanica_raw table.
+No URLs provided. Fetching all individual passenger URLs from class pages...
+Scraping class page: First
+Using cached content for https://www.encyclopedia-titanica.org/titanic-first-class-passengers/
+Scraping class page: Second
+Using cached content for https://www.encyclopedia-titanica.org/titanic-second-class-passengers/
+Scraping class page: Third
+Using cached content for https://www.encyclopedia-titanica.org/titanic-third-class-passengers/
+Found 1317 individual passenger URLs from class pages.
+Using cached content for https://www.encyclopedia-titanica.org/titanic-survivor/elisabeth-walton-allen.html
+Saved https://www.encyclopedia-titanica.org/titanic-survivor/elisabeth-walton-allen.html to DB
+Using cached content for https://www.encyclopedia-titanica.org/titanic-victim/hudson-joshua-creighton.html
+Saved https://www.encyclopedia-titanica.org/titanic-victim/hudson-joshua-creighton.html to DB
+Using cached content for https://www.encyclopedia-titanica.org/titanic-victim/bessie-waldo-allison.html
+Saved https://www.encyclopedia-titanica.org/titanic-victim/bessie-waldo-allison.html to DB
+Using cached content for https://www.encyclopedia-titanica.org/titanic-victim/loraine-allison.html
+Saved https://www.encyclopedia-titanica.org/titanic-victim/loraine-allison.html to DB
+Using cached content for https://www.encyclopedia-titanica.org/titanic-survivor/trevor-allison.html
+Saved https://www.encyclopedia-titanica.org/titanic-survivor/trevor-allison.html to DB
+Using cached content for https://www.encyclopedia-titanica.org/titanic-survivor/harry-anderson.html
+Saved https://www.encyclopedia-titanica.org/titanic-survivor/harry-anderson.html to DB
+Using cached content for https://www.encyclopedia-titanica.org/titanic-victim/thomas-andrews.html
+Saved https://www.encyclopedia-titanica.org/titanic-victim/thomas-andrews.html to DB
+Using cached content for https://www.encyclopedia-titanica.org/titanic-survivor/kornelia-theodosia-andrews.html
+Saved https://www.encyclopedia-titanica.org/titanic-survivor/kornelia-theodosia-andrews.html to DB
+Using cached content for https://www.encyclopedia-titanica.org/titanic-survivor/charlotte-appleton.html
+Saved https://www.encyclopedia-titanica.org/titanic-survivor/charlotte-appleton.html to DB
+Using cached content for https://www.encyclopedia-titanica.org/titanic-victim/ramon-artagaveytia.html
+Saved https://www.encyclopedia-titanica.org/titanic-victim/ramon-artagaveytia.html to DB
+
+==== Sample 1: https://www.encyclopedia-titanica.org/titanic-survivor/elisabeth-walton-allen.html ====
+
+--- Summary ---
+<div class="mb-3" id="summary">
+ <h3>
+  Titanic Passenger Summary
+ </h3>
+ <!-- NAME -->
+ <div>
+  <strong>
+   Name
+  </strong>
+  :
+  <span itemprop="honorificPrefix">
+   Miss
+  </span>
+  <span itemprop="name">
+   <span itemprop="givenName">
+    Elisabeth Walton
+   </span>
+   <span itemprop="familyName">
+    Allen
+   </span>
+  </span>
+  <span itemprop="honorificSuffix">
+  </span>
+ </div>
+ <!-- SURV -->
+ <div>
+  <a href="/titanic-survivors/">
+   Titanic Survivor
+  </a>
+ </div>
+ <!-- BIRTH -->
+ <div>
+  <strong>
+   Born
+  </strong>
+  :
+  <a href="/titanic-dates/md-1001.html">
+   <span content="1882-10-01" itemprop="birthDate">
+    Sunday 1st October 1882
+   </span>
+  </a>
+  in
+  <a href="/titanic-passengers-crew-born/558/st-louis.html" title="St. Louis, Missouri, United States">
+   St. Louis, Missouri, United States
+  </a>
+  <a class="place" data-bs-placement="top" data-bs-toggle="tooltip" data-id="558" data-m_id="1" href="/titanic-places/st-louis.html" title="Titanic connections to St. Louis, Missouri, United States...">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path d="M256 0c17.7 0 32 14.3 32 32V66.7C368.4 80.1 431.9 143.6 445.3 224H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H445.3C431.9 368.4 368.4 431.9 288 445.3V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V445.3C143.6 431.9 80.1 368.4 66.7 288H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H66.7C80.1 143.6 143.6 80.1 224 66.7V32c0-17.7 14.3-32 32-32zM128 256c0 70.7 57.3 128 128 128s128-57.3 128-128s-57.3-128-128-128s-128 57.3-128 128zm128 80c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80z">
+    </path>
+   </svg>
+  </a>
+  <span content="St. Louis, Missouri, United States" itemprop="birthPlace">
+  </span>
+ </div>
+ <!-- BIRTH -->
+ <!-- AGE / GENDER -->
+ <div>
+  <strong>
+   Age
+  </strong>
+  :
+  <a href="/titanic-ages/29.html">
+   29 years
+  </a>
+  6 months and 14 days (
+  <a href="/titanic-female-passengers/">
+   <span itemprop="gender">
+    Female
+   </span>
+  </a>
+  )
+ </div>
+ <!-- AGE / GENDER -->
+ <!-- VITAL STATS -->
+ <!-- VITAL STATS -->
+ <!-- NATIONALITY -->
+ <div>
+  <strong>
+   Nationality
+  </strong>
+  :
+  <a href="/titanic-passengers-crew-nationality/american.html" title="List of American Titanic passengers and crew">
+   <span itemprop="nationality">
+    American
+   </span>
+  </a>
+ </div>
+ <!-- NATIONALITY -->
+ <!-- RELIGION -->
+ <!-- RELIGION -->
+ <!-- MARITAL STATUS -->
+ <div>
+  <strong>
+   Marital Status
+  </strong>
+  :
+  <a href="/titanic-engaged/" title="List of engaged Titanic passengers and crew">
+   Engaged
+  </a>
+  to
+  <span itemprop="spouse">
+   Dr. James B. Mennell
+  </span>
+ </div>
+ <!-- MARITAL STATUS -->
+ <!-- LAST RESIDENCE -->
+ <div>
+  <strong>
+   Last Residence
+  </strong>
+  : in
+  <a href="/titanic-passengers-crew-lived/558/st-louis.html" title="Titanic pasengers and crew who lived in St. Louis, Missouri, United States">
+   <span itemprop="homeLocation">
+    St. Louis, Missouri, United States
+   </span>
+  </a>
+  <a data-bs-placement="top" data-bs-toggle="tooltip" href="/titanic-places/st-louis.html" title="Titanic connections to St. Louis, Missouri, United States...">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path d="M256 0c17.7 0 32 14.3 32 32V66.7C368.4 80.1 431.9 143.6 445.3 224H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H445.3C431.9 368.4 368.4 431.9 288 445.3V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V445.3C143.6 431.9 80.1 368.4 66.7 288H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H66.7C80.1 143.6 143.6 80.1 224 66.7V32c0-17.7 14.3-32 32-32zM128 256c0 70.7 57.3 128 128 128s128-57.3 128-128s-57.3-128-128-128s-128 57.3-128 128zm128 80c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80z">
+    </path>
+   </svg>
+  </a>
+ </div>
+ <!-- LAST RESIDENCE -->
+ <!-- OCCUPATION -->
+ <!-- OCCUPATION -->
+ <!-- CREW LAST SHIP -->
+ <!-- CREW LAST SHIP -->
+ <!-- CLASS / DEPT -->
+ <div>
+  <a href="/titanic-first-class-passengers/" title="Titanic First Class Passengers">
+   1st Class Passengers
+  </a>
+ </div>
+ <!-- CLASS / DEPT -->
+ <!-- EMBARKATION -->
+ <div>
+  <strong>
+   Embarked
+  </strong>
+  :
+  <a href="/titanic-passengers-crew-embarked/1/southampton.html" title="Titanic passengers and crew that embarked at Southampton">
+   Southampton
+  </a>
+  on Wednesday 10th April 1912
+ </div>
+ <!-- EMBARKATION -->
+ <!-- TICKET / FARE -->
+ <div>
+  <strong>
+   Ticket No
+  </strong>
+  . 24160, £211  6s  9d
+  <span data-bs-placement="top" data-bs-toggle="tooltip" title="In modern currency approximately: £24,647 $34,284 (4 passengers)">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+     <style>
+      .fa-secondary{opacity:.4}
+     </style>
+    </defs>
+    <path class="fa-secondary" d="M416 311.4c57.3-11.1 96-31.7 96-55.4v-42.7c-23.2 16.4-57.3 27.6-96 34.5zm-4.7-95.1c60-10.8 100.7-32 100.7-56.3v-42.7c-35.5 25.1-96.5 38.6-160.7 41.8 29.5 14.3 51.2 33.5 60 57.2zM512 64c0-35.3-86-64-192-64S128 28.7 128 64s86 64 192 64 192-28.7 192-64z">
+    </path>
+    <path class="fa-primary" d="M192 320c106 0 192-35.8 192-80s-86-80-192-80S0 195.8 0 240s86 80 192 80zM0 405.3V448c0 35.3 86 64 192 64s192-28.7 192-64v-42.7C342.7 434.4 267.2 448 192 448S41.3 434.4 0 405.3zm0-104.9V352c0 35.3 86 64 192 64s192-28.7 192-64v-51.6c-41.3 34-116.9 51.6-192 51.6S41.3 334.4 0 300.4z">
+    </path>
+   </svg>
+  </span>
+ </div>
+ <!-- TICKET / FARE -->
+ <!-- CABIN -->
+ <div>
+  <strong>
+   Cabin No.
+  </strong>
+  <span data-bs-content="&lt;img  loading='lazy' height='250' width='250' src='/images/cabin-b-5-250.jpg'/&gt;" data-bs-html="true" data-bs-placement="top" data-bs-toggle="popover" data-bs-trigger="hover">
+   B5
+  </span>
+ </div>
+ <!-- CABIN -->
+ <!-- DESTINATION -->
+ <div>
+  <strong>
+   Destination
+  </strong>
+  :
+  <a href="/titanic-passengers-destination/558/st-louis.html" title="Titanic passengers travelling to St. Louis, Missouri, United States">
+   St. Louis, Missouri, United States
+  </a>
+  <a data-bs-placement="top" data-bs-toggle="tooltip" href="/titanic-places/st-louis.html" title="Titanic connections to St. Louis, Missouri, United States">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path d="M256 0c17.7 0 32 14.3 32 32V66.7C368.4 80.1 431.9 143.6 445.3 224H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H445.3C431.9 368.4 368.4 431.9 288 445.3V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V445.3C143.6 431.9 80.1 368.4 66.7 288H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H66.7C80.1 143.6 143.6 80.1 224 66.7V32c0-17.7 14.3-32 32-32zM128 256c0 70.7 57.3 128 128 128s128-57.3 128-128s-57.3-128-128-128s-128 57.3-128 128zm128 80c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80z">
+    </path>
+   </svg>
+  </a>
+ </div>
+ <!-- DESTINATION -->
+ <!-- RESCUED? -->
+ <div>
+  <strong>
+   Rescued
+  </strong>
+  (
+  <a href="/titanic/lifeboats/lifeboat-2/" title="Titanic survivors in lifeboat 2">
+   boat 2
+  </a>
+  )
+  <span data-bs-content="&lt;p&gt;The presence of Miss Allen in lifeboat 2 was recorded by Colonel Gracie (1912)&lt;/p&gt;" data-bs-html="true" data-bs-placement="top" data-bs-toggle="popover" data-bs-trigger="hover">
+   <span class="svgicon">
+    <svg class="svgicon" viewbox="0 0 640 512" xmlns="http://www.w3.org/2000/svg">
+     <!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
+     <defs>
+      <style>
+       .fa-secondary{opacity:.4}
+      </style>
+     </defs>
+     <path class="fa-primary" d="M216 288h-48a16 16 0 0 0-16 16v192a16 16 0 0 0 16 16h48a16 16 0 0 0 16-16V304a16 16 0 0 0-16-16zM88 384H40a16 16 0 0 0-16 16v96a16 16 0 0 0 16 16h48a16 16 0 0 0 16-16v-96a16 16 0 0 0-16-16zm256-192h-48a16 16 0 0 0-16 16v288a16 16 0 0 0 16 16h48a16 16 0 0 0 16-16V208a16 16 0 0 0-16-16zM600 0h-48a16 16 0 0 0-16 16v480a16 16 0 0 0 16 16h48a16 16 0 0 0 16-16V16a16 16 0 0 0-16-16zM472 96h-48a16 16 0 0 0-16 16v384a16 16 0 0 0 16 16h48a16 16 0 0 0 16-16V112a16 16 0 0 0-16-16z">
+     </path>
+    </svg>
+   </span>
+  </span>
+ </div>
+ <!-- RESCUED? -->
+ <!-- DISEMBARKED -->
+ <div>
+  <strong>
+   Disembarked Carpathia
+  </strong>
+  :
+  <a href="/titanic-passengers-crew-disembarked/423/new-york-city.html" title="Titanic survivors disembarked in New York City">
+   New York City
+  </a>
+  on Thursday 18th April 1912
+ </div>
+ <!-- DISEMBARKED -->
+ <!-- BODY -->
+ <!-- BODY -->
+ <!-- DEATH -->
+ <div>
+  <strong>
+   Died
+  </strong>
+  :
+  <a href="/titanic-dates/md-1215.html">
+   <span content="1967-12-15" itemprop="deathDate">
+    Friday 15th December 1967
+   </span>
+  </a>
+  in
+  <a href="/titanic-passengers-crew-died/4125/tunbridge-wells.html" title="Titanic passenger and crew that died in Tunbridge Wells, Kent, England">
+   <span itemprop="deathPlace">
+    Tunbridge Wells, Kent, England
+   </span>
+  </a>
+  <a data-bs-placement="top" data-bs-toggle="tooltip" href="/titanic-places/tunbridge-wells.html" title="Titanic connections to Tunbridge Wells, Kent, England...">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path d="M256 0c17.7 0 32 14.3 32 32V66.7C368.4 80.1 431.9 143.6 445.3 224H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H445.3C431.9 368.4 368.4 431.9 288 445.3V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V445.3C143.6 431.9 80.1 368.4 66.7 288H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H66.7C80.1 143.6 143.6 80.1 224 66.7V32c0-17.7 14.3-32 32-32zM128 256c0 70.7 57.3 128 128 128s128-57.3 128-128s-57.3-128-128-128s-128 57.3-128 128zm128 80c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80z">
+    </path>
+   </svg>
+  </a>
+  aged 85 years
+ </div>
+ <!-- DEATH -->
+ <!-- CAUSE OF DEATH -->
+ <div itemscope="" itemtype="http://schema.org/MedicalCondition">
+  <strong>
+   Cause of Death
+  </strong>
+  :
+  <a href="/titanic-cause-of-death/heart-failure.html" itemprop="url" title="Titanic - Cause of death: Heart Failure / Disease">
+   <span itemprop="name">
+    Heart Failure / Disease
+   </span>
+  </a>
+ </div>
+ <!-- CAUSE OF DEATH -->
+ <!-- BURIAL -->
+ <strong>
+  Cremated:
+ </strong>
+ <a href="/titanic-passengers-crew-buried/4161/kent-sussex-crematorium-tunbridge-wells.html" title="Titanic passengers and crew buried in Kent &amp; Sussex Crematorium, Tunbridge Wells, Kent, England">
+  Kent &amp; Sussex Crematorium, Tunbridge Wells, Kent, England
+ </a>
+ on Wednesday 20th December 1967
+ <!-- BURIAL -->
+ <!-- TRAVEL COMPANIONS -->
+ <div class="my-4">
+  <h3>
+   Linked Biographies
+  </h3>
+  <div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="knows" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a href="/titanic-survivor/emilie-kreuchen.html" title="Emilie Kreuchen">
+      <img alt="Emilie Kreuchen" class="img-thumbnail" height="75" loading="lazy" src="/images/emilie-kreuchen_younger_T1.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a class="hover-link" data-id="181" href="/titanic-survivor/emilie-kreuchen.html" itemprop="url" title="Emilie Kreuchen - Miss">
+      Miss
+      <span itemprop="name">
+       Emilie Kreuchen
+      </span>
+     </a>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="relatedTo" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a href="/titanic-survivor/georgette-madill.html" title="Georgette Alexandra Madill">
+      <img alt="Georgette Alexandra Madill" class="img-thumbnail" height="75" loading="lazy" src="/images/georgette-madill-1920-T.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a class="hover-link" data-id="195" href="/titanic-survivor/georgette-madill.html" itemprop="url" title="Georgette Alexandra Madill - Miss">
+      Miss
+      <span itemprop="name">
+       Georgette Alexandra Madill
+      </span>
+     </a>
+     <br>
+      <small>
+       Cousin
+      </small>
+     </br>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="relatedTo" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a href="/titanic-survivor/elisabeth-walton-robert.html" title="Elisabeth Walton Robert">
+      <img alt="Elisabeth Walton Robert" class="img-thumbnail" height="75" loading="lazy" src="/images/elizabeth_robert_T1.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a class="hover-link" data-id="241" href="/titanic-survivor/elisabeth-walton-robert.html" itemprop="url" title="Elisabeth Walton Robert - Mrs">
+      Mrs
+      <span itemprop="name">
+       Elisabeth Walton Robert
+      </span>
+     </a>
+     <br>
+      <small>
+       Aunt
+      </small>
+     </br>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+--- Biography ---
+<div class="biosection" id="biography" itemprop="articleBody">
+ <div class="alert alert-primary alert-dismissible fade show lead" role="alert">
+  <p class="p1">
+   Elisabeth Walton Allen, 29, was a first-class passenger and survivor of the
+   <em>
+    Titanic
+   </em>
+   disaster. The daughter of prominent lawyer George Washington Allen and Lydia McMillan, she came from a well-connected family but experienced family turmoil due to her parents’ strained marriage and her mother’s struggles with alcoholism. Elisabeth was educated at Vassar College and frequently travelled between the United States and Europe. She boarded the
+   <em>
+    Titanic
+   </em>
+   with her aunt and cousin, sharing a first-class cabin and escaping the sinking in lifeboat 2. After returning to the US briefly, she settled in London, marrying Dr. James B. Mennell in a double wedding with her sister in 1912. The couple had three sons and resided in England for most of their lives. Elisabeth remained active in transatlantic connections and social causes, eventually passing away in Tunbridge Wells, Kent, in 1967 at the age of 85.
+  </p>
+  <button aria-label="Close" class="btn-close" data-bs-dismiss="alert" type="button">
+  </button>
+ </div>
+ <p>
+  Miss Elisabeth Walton Allen was born in St Louis, Missouri on 1 October 1882.
+ </p>
+ <p>
+  She was the daughter of George Washington Allen (b. 31 March 1852), a lawyer and railroad capitalist from St Louis, and Lydia Jeanette McMillan (b. 8 October 1853) who was born in La Porte, Indiana. The couple were married on 21 June 1876 in Mount Pleasant, Pennsylvania. Her father, who came from a wealthy family and who was active in local politics, was a member of the city council and one-time mayor of St Louis whilst his father Thomas was a builder of the Iron Mountain Railroad and the Southern Hotel in St Louis.
+ </p>
+ <p>
+  One of five children, Elisabeth’s four siblings were: Thomas III (b. 8 September 1877; d. 1947), Clare (b. 6 March 1881; d. 1970), George Walton Hocker (b. 19 November 1889; d. 1973) and Whitelaw Reid (b. 26 February 1891; d. 1972).
+ </p>
+ <p>
+  In the late 1890s the family moved from St Louis to Princeton, New Jersey and appear on the 1900 census living at 83 Mercer Street, Princeton; her father had no stated profession at the time. Elisabeth and her sister Clare were students at Vassar College in Poughkeepsie, New York during this timeframe (she was still listed as a student as late as 1904). It was also around this time that the family began to fall apart, her father soon beginning to live in hotels, including the Southern Hotel in St Louis, which his family had founded.
+ </p>
+ <figure class="image text-center">
+  <img alt="George W. Allen" class="figure-img img-fluid rounded" height="200" loading="lazy" src="/images/george_w_allen.jpg" width="139"/>
+  <img alt="Lydia Allen" class="figure-img img-fluid rounded mx-2" height="200" loading="lazy" src="/images/lydia_allen.jpg" width="150"/>
+  <img alt="Thomas Allen" class="figure-img img-fluid rounded" height="200" loading="lazy" src="/images/thomas_allen.jpg" width="150"/>
+  <figcaption class="figure-caption">
+   <strong>
+    George W. Allen, Elisabeth’s father (1892), her mother Lydia (1916) and brother Thomas (1920)
+   </strong>
+  </figcaption>
+ </figure>
+ <p>
+  Elisabeth’s mother was, by reports, burdened with alcoholism and in an attempt to cure her her husband had sent her, by her own request, to Paris in the hope that the change of surroundings might help her to “overcome her weakness.” With that trip not having the desired effect, she was dispatched to Canada for the same purpose but again to no avail. His eleventh-hour attempt was to send her to an institute in Boston in early January 1901, again without the desired result. Before leaving for St Louis on business he instructed his son Thomas, a New York-based lawyer, to remove his younger brothers from the family home.
+ </p>
+ <figure class="image text-center">
+  <img alt="George Allen" class="figure-img img-fluid rounded me-1" height="300" loading="lazy" src="/images/george_allen.jpg" width="225"/>
+  <img alt="Whitelaw Allen" class="figure-img img-fluid rounded ms-1" height="300" loading="lazy" src="/images/whitelaw_allen.jpg" width="225"/>
+  <figcaption class="figure-caption">
+   <strong>
+    Elisabeth’s younger brothers George (1920) and Whitelaw (1918)
+   </strong>
+  </figcaption>
+ </figure>
+ <p>
+  Mrs Allen, who later stated that she was in Boston on “a matter of business” but falling ill and bedridden for a stretch, wrote and telegraphed her home asking for her two youngest sons to be brought to her. These requests went unanswered and when Mrs Allen was sufficiently well to travel she returned to Princeton to find that both her youngest sons were nowhere to be found and could not determine their whereabouts for several days. They had been taken by their elder brother Thomas to New York where they stayed at a boarding house at 46 East 21st Street. On learning of their location Mrs Allen immediately hastened to fetch them but Thomas Allen refused to surrender the two boys. She immediately launched legal proceedings, alleging her sons had been kidnapped and “restrained of their liberty” by their elder brother.
+ </p>
+ <p>
+  It soon emerged that Lydia’s husband George Washington Allen, who was still in St Louis on business, had declared that he had ordered his son Thomas to remove the two boys from the family home because his wife Lydia, whom he accused of habitual drunkenness, “was not the proper person to have charge of them” and threatened to fight the proceedings in the courts. Mr Allen went on to say:
+ </p>
+ <figure>
+  <blockquote class="newsprint quotes" data-audio-snippet-id="1">
+   <p>
+    They were not abducted. I told my elder son to secure possession of the children and to keep them away from their mother. He did so. I don’t know where he took them. I expect to do all I can to prevent their mother from securing them again, as she is not the proper kind of a person to have charge of them.
+   </p>
+   <a class="audio-icon" href="javascript:void(0)" onclick="openAudioPlayerWindow({ snippet_id: 1 })" title="Listen to this quote">
+    <img alt="Listen" loading="lazy" src="/images/speaker_icon.png"/>
+   </a>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+   <cite title="St Louis Republic">
+    St Louis Republic
+   </cite>
+   , 21 January 1901.
+  </figcaption>
+ </figure>
+ <p>
+  At the ensuing trial, the two young boys who had been separated from their mother ran to her and they caressed in an emotional scene. Both boys were soon reigned into their brother’s control in the courtroom.
+ </p>
+ <p>
+  The outcome of the legal process was not favourable for Mrs Allen, who attempted to defend her alcoholism on the grounds of medical requirements. Further to this, George Washington Allen filed for divorce on 1 January 1902, citing his wife’s 15-year-long drinking habit and the “intolerable humiliation and indignities” he suffered as a result. The hearing was brief and the St Louis Republic reported on 16 January 1902 that Mr Allen was granted a divorce and awarded the custody of his two minor sons.
+ </p>
+ <p>
+  With a divorce finalised George Washington Allen promptly remarried in March 1903 to a Miss Eliza Doherty of Atlanta.
+ </p>
+ <p>
+  Elisabeth’s mother never remarried and divided her time between St Louis and Cazenovia, New York. The 1910 census shows Mrs Allen with her sons George and Whitelaw as residents of The Green in Cazenovia but Elisabeth was not listed at the address. Instead, for the previous few years she had been spending considerable portions of her time in Europe, particularly Britain, and in January 1911 travelled with her maternal aunt
+  <a class="hover-link" data-id="241" href="/titanic-survivor/elisabeth-walton-robert.html" title="Elizabeth Walton Robert">
+   Mrs Elisabeth McMillan Robert
+  </a>
+  and her daughter, Miss Allen’s cousin
+  <a class="hover-link" data-id="195" href="/titanic-survivor/georgette-madill.html" title="Georgette Alexandra Madill">
+   Georgette Madill
+  </a>
+  , the heiress of a large fortune. During this time she became engaged to physician James Beaver Mennell. Her sister Clare was engaged around the same time to Harvard history professor Charles Homer Haskins.
+ </p>
+ <figure class="image text-center">
+  <a data-fslightbox="lightbox[1]" href="/images/allen_yearbook-pic-detail.jpg" title="Elisabeth Walton Allen">
+   <img alt="Elisabeth Walton Allen Yearbook Entry" class="figure-img img-fluid rounded" height="209" loading="lazy" src="/images/allen_yearbook.jpg" width="900"/>
+  </a>
+  <figcaption class="figure-caption">
+   <strong>
+    Elisabeth Walton Allen in her college yearbook
+   </strong>
+  </figcaption>
+ </figure>
+ <p>
+  James Beaver Mennell was born in Shepherds Bush, London, England on 31 January 1880 to surgeon Zebulon Mennell and the former Jane Lilias Hudson Gillies. By 1911 he was a boarder at 107 Palace Road in Lambeth, London and was described as the resident medical officer of St Thomas’ House.
+ </p>
+ <p>
+  Elisabeth was set to return to her home in St. Louis with her aunt and Miss Madill. Intending to gather her belongings and settle her affairs in the US for preparation for her imminent marriage, Miss Allen, her aunt, cousin and her aunt’s maid
+  <a class="hover-link" data-id="181" href="/titanic-survivor/emilie-kreuchen.html" title="Emilie Kreuchen">
+   Emilie Kreuchen
+  </a>
+  all boarded the
+  <em>
+   Titanic
+  </em>
+  in Southampton as first-class passengers. For the voyage, Miss Allen shared cabin
+  <a class="hover-link" data-card="cabin" data-id="b-5" href="/titanic-deckplans/location-b-5.html" title="Cabin B-5">
+   B-5
+  </a>
+  with cousin Georgette, whilst Mrs Robert was across the hall in cabin
+  <a class="hover-link" data-card="cabin" data-id="b-3" href="/titanic-deckplans/location-b-3.html" title="Cabin B-3">
+   B-3
+  </a>
+  . The entire party travelled under ticket number 24160 (which cost £221, 16s, 9d).
+ </p>
+ <figure class="image text-center">
+  <img alt="Elisabeth Walton Allen" class="figure-img img-fluid rounded" height="300" loading="lazy" src="/images/elisabeth_walton_allen_1912_P.jpg" style="border-style: solid; border-width: 0px;" width="225"/>
+  <figcaption class="figure-caption">
+   <strong>
+    Elisabeth Walton Allen after her rescue
+   </strong>
+   <br/>
+   <cite title="The Paterson Press">
+    <small>
+     (The Paterson Press, 20 April 1912)
+    </small>
+   </cite>
+  </figcaption>
+ </figure>
+ <p>
+  Miss Allen escaped the sinking with her relatives in
+  <a href="/titanic-lifeboat-2/" title="Lifeboat 2">
+   lifeboat 2
+  </a>
+  , one of the last boats to leave the
+  <em>
+   Titanic
+  </em>
+  , under the command of
+  <a class="hover-link" data-id="1321" href="/titanic-survivor/joseph-groves-boxhall.html" title="Fourth Officer Joseph Boxhall">
+   Fourth Officer Joseph Boxhall
+  </a>
+  .
+ </p>
+ <p>
+  Regarding the disaster, Miss Allen wrote:
+ </p>
+ <figure>
+  <blockquote class="paper shadow" data-audio-snippet-id="2">
+   <p>
+    Mrs. J. B. Mennell (née Allen):
+   </p>
+   <p>
+    My aunt, Mrs. Roberts' maid, came to the door and asked if she could speak to me. I went into the corridor and she said: " Miss Allen, the baggage room is full of water." I replied she needn't worry, that the water-tight compartments would be shut and it would be all right for her to go back to her cabin. She went back and returned to us immediately to say her cabin, which was forward on Deck E, was flooded.
+   </p>
+   <p>
+    We were on the Boat Deck some minutes before being ordered into the lifeboat. Neither my aunt, Mrs. Roberts, my cousin, Miss Madill, nor myself ever saw or heard the band. As we stood there we saw a line of men file by and get into the boat-some sixteen or eighteen stokers. An officer I came along and shouted to them: "Get out, you damned cowards; I'd like to see everyone of you overboard." They all got out and the officer said: "Women and children into this boat," and we got in and were lowered.
+   </p>
+   <p>
+    With the exception of two very harrowing leave-takings, we saw nothing but perfect order and quiet on board the Titanic. We were rowed round the stern to the starboard side and away from the ship, as our boat was a small one and Boxhall feared the suction. Mrs. Cornell helped to row all the time.
+   </p>
+   <p>
+    As the Titanic plunged deeper and deeper we could see her stern rising higher and higher until her lights began to go out. As the last lights on the stern went out we saw her plunge distinctively, bow first and intact. Then the screams began and seemed to last eternally. We rowed back, after the Titanic was under water, toward the place where she had gone down, but we saw no one in the water, nor were we near enough to any other lifeboats to see them. When Boxhall lit his first light the screams grew louder and then died down.
+   </p>
+   <p>
+    We could hear the lapping of the water on the icebergs, but saw none, even when Boxhall lit his green lights, which he did at regular intervals, till we sighted the Carpathia. Our boat was the first one picked up by the Carpathia. I happened to be the first one up the ladder, as the others seemed afraid to start up, and when the officer who received me asked where the Titanic was, I told him she had gone down
+   </p>
+   <a class="audio-icon" href="javascript:void(0)" onclick="openAudioPlayerWindow({ snippet_id: 2 })" title="Listen to this quote">
+    <img alt="Listen" loading="lazy" src="/images/speaker_icon.png"/>
+   </a>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+   <cite title="The Truth about the Titanic">
+    Gracie (1913) The Truth about the Titanic
+   </cite>
+   .
+  </figcaption>
+ </figure>
+ <p>
+  Arriving back in St Louis by train on 23 April 1912, Miss Allen was interviewed by the
+  <em>
+   St Louis Globe-Democrat
+  </em>
+  . In the brief interview, she described the shock of the impact with the iceberg as “when a small boat runs over a sand bar,” noting the sensation as very slight. Asked about the conduct of Bruce Ismay, Miss Allen immediately jumped to his defence:
+ </p>
+ <figure>
+  <blockquote class="newsprint quotes" data-audio-snippet-id="3">
+   <p>
+    I don’t see why all this fuss should be raised about Mr Ismay. He was a gentleman all the way through, and all that I heard and saw of him the night of the accident was that he played the part of a gallant gentleman in doing his part to carry out the law of the sea—women and children first. Our boat was next to the last, and when we left he was helping a little child into the last boat and there seemed to be few women in the vicinity. He came aboard the Carpathia on the last boat about 8 o’clock Monday morning, and when he reached the deck he collapsed, a nervous wreck, and was conducted to a room.
+   </p>
+   <a class="audio-icon" href="javascript:void(0)" onclick="openAudioPlayerWindow({ snippet_id: 3 })" title="Listen to this quote">
+    <img alt="Listen" loading="lazy" src="/images/speaker_icon.png"/>
+   </a>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+   <cite title="St Louis Globe-Democrat">
+    St Louis Globe-Democrat
+   </cite>
+   , 24 April 1912.
+  </figcaption>
+ </figure>
+ <p>
+  Following the sinking Elisabeth filed a $2,427.80 claim against the White Star Line for the loss of personal property in the disaster.
+ </p>
+ <p>
+  Her stay in the USA was brief and only weeks later Elisabeth, with her aunt and cousin again in tow, braved the ocean yet again to make the journey London where she would be wed. This time they travelled aboard the
+  <em>
+   Baltic
+  </em>
+  .
+ </p>
+ <div>
+  <div>
+   <figure class="image text-center">
+    <img alt="Clare Allen" class="figure-img img-fluid rounded" height="300" loading="lazy" src="/images/clare_allen.jpg" width="284"/>
+    <figcaption class="figure-caption">
+     <strong>
+      Elisabeth’s sister Clare in 1922
+     </strong>
+    </figcaption>
+   </figure>
+  </div>
+  <p>
+   At 12 noon on 11 July 1912 Elisabeth Allen and her sister Clare marched down the aisle of Norlands Church in west London at the same time as part of a double wedding. Their maid of honour was their cousin Georgette Madill. Given away by their mother, the brides “wore white satin gowns trimmed with rare Venetian Lace that belonged to their mother, and tulle veils gathered with orange blossoms. They carried large shower bouquets of lilies of the valley and white orchids.” One of the guests was the American Ambassador to the court of St James. A lavish reception followed at Fleming’s Hotel on Clarges Street, London after which Dr and Mrs Mennell left for the south coast of England to honeymoon.
+  </p>
+  <figure class="image text-center">
+   <img alt="Marriage Reocrd" class="figure-img img-fluid rounded" height="154" loading="lazy" src="/images/elisabeth_walton_allen_marriage.jpg" width="500"/>
+   <figcaption class="figure-caption">
+    <strong>
+     Marriage record between Elisabeth Allen and James Mennell
+    </strong>
+   </figcaption>
+  </figure>
+  <p>
+   The Mennells made her home in England, initially in Kensington, London at 1 Royal Crescent, where they lived for many years. Whilst at that address in Kensington they welcomed three sons: James Beaver (b. 7 June 1913), John McMillan (b. 21 January 1916) and Peter (b. 29 August 1918).
+  </p>
+  <p>
+   Back in the USA her father died on 26 December 1917 following an operation for appendicitis. Her mother lived for the last few years of her life in Paris and died on 22 February 1930 whilst vacationing in Menton in the south of France.
+  </p>
+  <p>
+   Elisabeth remained close to her cousin Georgette Madill and the pair often travelled together. Miss Madill would pay regular visits to her in London and lived there for a few years prior to her engagement and marriage in 1931 following which she settled there permanently. Elisabeth also maintained her ties to her homeland by acting as regent of the
+   <em>
+    Daughters of the Revolution
+   </em>
+   ’s English chapter.
+  </p>
+  <p>
+   By 1939 Elisabeth and her husband were living in St Pancras, London and they later occupied an address at Portland Place, Kensington in the late 1940s. Mrs Mennell continued to travel and made several return visits to her native Missouri; she set foot on American soil for the first time since 1912 in August 1919 where she spent time with her mother and siblings in Cazenovia, New York, as reported by the St Louis Star and Times on 23 August 1919.
+  </p>
+  <figure class="image text-center">
+   <img alt="James B. Mennell" class="figure-img img-fluid rounded me-1" height="346" loading="lazy" src="/images/james_b_mennell_1947.jpg" width="208"/>
+   <img alt="Elisabeth in 1946" class="figure-img img-fluid rounded ms-1" height="346" loading="lazy" src="/images/elisabeth_walton_allen_1946.jpg" width="229"/>
+   <figcaption class="figure-caption">
+    <strong>
+     James B. Mennell in 1947 and Elisabeth in 1946
+    </strong>
+    <br/>
+    <small>
+     (Metropolitan Pasadena Star-News, 6 August 1947, St Louis Globe Democrat, 23 June 1946)
+    </small>
+   </figcaption>
+  </figure>
+  <p>
+   Elisabeth became a widow on 2 March 1957 when James Mennell died; death notices described him as an internationally known physician, author, lecturer and associate professor of physical medicine at the University of Southern California. His probate listed him as a resident of Morning Rake in Liss, Hampshire, at the time of death, and his estate, worth £9137, 11s, 10d, was administered to his son James.
+  </p>
+  <p>
+   Elisabeth rallied for a further decade but endured various health ailments in her later years and, in the mid-1960s, suffered a stroke from which she never fully recovered. She spent her final days in Ferndale Point nursing home in Tunbridge Wells, Kent, where she died on 15 December 1967, aged 85.
+  </p>
+  <p>
+   Her probate listed her estate as valued at £605. She was cremated on 20 December 1967 at Kent &amp; Sussex Crematorium, but the final whereabouts of her remains are unknown.
+  </p>
+  <p>
+   Her son James later worked as a chartered accountant and married Anne Neild in 1940. They had three children. James died in Oxford in 1998.
+   <br/>
+   Son John, like his father, became a physician. Married twice (his first marriage ended in divorce), John died in Oxford in 1992.
+  </p>
+  <p>
+   Son Peter Mennell served in the Royal Artillery during WWII and was made an MBE in 1945 for his service in the field. He later worked as a diplomat and, in 1946, married Prudence Helen Vansittart. The pair later had two sons and two daughters. Peter died in Richmond, Surrey, in 1981.
+  </p>
+ </div>
+</div>
+
+
+--- End of Sample ---
+
+==== Sample 2: https://www.encyclopedia-titanica.org/titanic-victim/hudson-joshua-creighton.html ====
+
+--- Summary ---
+<div class="mb-3" id="summary">
+ <h3>
+  Titanic Passenger Summary
+ </h3>
+ <!-- NAME -->
+ <div>
+  <strong>
+   Name
+  </strong>
+  :
+  <span itemprop="honorificPrefix">
+   Mr
+  </span>
+  <span itemprop="name">
+   <span itemprop="givenName">
+    Hudson Joshua Creighton
+   </span>
+   <span itemprop="familyName">
+    Allison
+   </span>
+  </span>
+  <span itemprop="honorificSuffix">
+  </span>
+ </div>
+ <!-- SURV -->
+ <div>
+  <a href="/titanic-victims/">
+   Titanic Victim
+  </a>
+ </div>
+ <!-- BIRTH -->
+ <div>
+  <strong>
+   Born
+  </strong>
+  :
+  <a href="/titanic-dates/md-1209.html">
+   <span content="1881-12-09" itemprop="birthDate">
+    Friday 9th December 1881
+   </span>
+  </a>
+  in
+  <a href="/titanic-passengers-crew-born/662/chesterville.html" title="Chesterville, Ontario, Canada">
+   Chesterville, Ontario, Canada
+  </a>
+  <a class="place" data-bs-placement="top" data-bs-toggle="tooltip" data-id="662" data-m_id="2" href="/titanic-places/chesterville.html" title="Titanic connections to Chesterville, Ontario, Canada...">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path d="M256 0c17.7 0 32 14.3 32 32V66.7C368.4 80.1 431.9 143.6 445.3 224H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H445.3C431.9 368.4 368.4 431.9 288 445.3V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V445.3C143.6 431.9 80.1 368.4 66.7 288H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H66.7C80.1 143.6 143.6 80.1 224 66.7V32c0-17.7 14.3-32 32-32zM128 256c0 70.7 57.3 128 128 128s128-57.3 128-128s-57.3-128-128-128s-128 57.3-128 128zm128 80c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80z">
+    </path>
+   </svg>
+  </a>
+  <span content="Chesterville, Ontario, Canada" itemprop="birthPlace">
+  </span>
+ </div>
+ <!-- BIRTH -->
+ <!-- AGE / GENDER -->
+ <div>
+  <strong>
+   Age
+  </strong>
+  :
+  <a href="/titanic-ages/30.html">
+   30 years
+  </a>
+  4 months and 6 days (
+  <a href="/titanic-male-passengers/">
+   <span itemprop="gender">
+    Male
+   </span>
+  </a>
+  )
+ </div>
+ <!-- AGE / GENDER -->
+ <!-- VITAL STATS -->
+ <!-- VITAL STATS -->
+ <!-- NATIONALITY -->
+ <div>
+  <strong>
+   Nationality
+  </strong>
+  :
+  <a href="/titanic-passengers-crew-nationality/canadian.html" title="List of Canadian Titanic passengers and crew">
+   <span itemprop="nationality">
+    Canadian
+   </span>
+  </a>
+ </div>
+ <!-- NATIONALITY -->
+ <!-- RELIGION -->
+ <!-- RELIGION -->
+ <!-- MARITAL STATUS -->
+ <div>
+  <strong>
+   Marital Status
+  </strong>
+  :
+  <a href="/titanic-married/" title="List of married Titanic passengers and crew">
+   Married
+  </a>
+  to
+  <span itemprop="spouse">
+   Bessie Waldo
+  </span>
+ </div>
+ <!-- MARITAL STATUS -->
+ <!-- LAST RESIDENCE -->
+ <div>
+  <strong>
+   Last Residence
+  </strong>
+  : at 152 Abbey road
+  <a href="/titanic-passengers-crew-lived/365/london.html" title="Titanic pasengers and crew who lived in London, England">
+   <span itemprop="homeLocation">
+    London, England
+   </span>
+  </a>
+  <a data-bs-placement="top" data-bs-toggle="tooltip" href="/titanic-places/london.html" title="Titanic connections to London, England...">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path d="M256 0c17.7 0 32 14.3 32 32V66.7C368.4 80.1 431.9 143.6 445.3 224H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H445.3C431.9 368.4 368.4 431.9 288 445.3V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V445.3C143.6 431.9 80.1 368.4 66.7 288H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H66.7C80.1 143.6 143.6 80.1 224 66.7V32c0-17.7 14.3-32 32-32zM128 256c0 70.7 57.3 128 128 128s128-57.3 128-128s-57.3-128-128-128s-128 57.3-128 128zm128 80c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80z">
+    </path>
+   </svg>
+  </a>
+ </div>
+ <!-- LAST RESIDENCE -->
+ <!-- OCCUPATION -->
+ <div>
+  <strong>
+   Occupation
+  </strong>
+  :
+  <a href="/titanic-jobs/businessman.html" title="Titanic passengers and crew that worked as  Businessman">
+   <span itemprop="jobTitle">
+    Businessman
+   </span>
+  </a>
+ </div>
+ <!-- OCCUPATION -->
+ <!-- CREW LAST SHIP -->
+ <!-- CREW LAST SHIP -->
+ <!-- CLASS / DEPT -->
+ <div>
+  <a href="/titanic-first-class-passengers/" title="Titanic First Class Passengers">
+   1st Class Passengers
+  </a>
+ </div>
+ <!-- CLASS / DEPT -->
+ <!-- EMBARKATION -->
+ <div>
+  <strong>
+   Embarked
+  </strong>
+  :
+  <a href="/titanic-passengers-crew-embarked/1/southampton.html" title="Titanic passengers and crew that embarked at Southampton">
+   Southampton
+  </a>
+  on Wednesday 10th April 1912
+ </div>
+ <!-- EMBARKATION -->
+ <!-- TICKET / FARE -->
+ <div>
+  <strong>
+   Ticket No
+  </strong>
+  . 113781, £151  16s
+  <span data-bs-placement="top" data-bs-toggle="tooltip" title="In modern currency approximately: £17,638 $24,535 (6 passengers)">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+     <style>
+      .fa-secondary{opacity:.4}
+     </style>
+    </defs>
+    <path class="fa-secondary" d="M416 311.4c57.3-11.1 96-31.7 96-55.4v-42.7c-23.2 16.4-57.3 27.6-96 34.5zm-4.7-95.1c60-10.8 100.7-32 100.7-56.3v-42.7c-35.5 25.1-96.5 38.6-160.7 41.8 29.5 14.3 51.2 33.5 60 57.2zM512 64c0-35.3-86-64-192-64S128 28.7 128 64s86 64 192 64 192-28.7 192-64z">
+    </path>
+    <path class="fa-primary" d="M192 320c106 0 192-35.8 192-80s-86-80-192-80S0 195.8 0 240s86 80 192 80zM0 405.3V448c0 35.3 86 64 192 64s192-28.7 192-64v-42.7C342.7 434.4 267.2 448 192 448S41.3 434.4 0 405.3zm0-104.9V352c0 35.3 86 64 192 64s192-28.7 192-64v-51.6c-41.3 34-116.9 51.6-192 51.6S41.3 334.4 0 300.4z">
+    </path>
+   </svg>
+  </span>
+ </div>
+ <!-- TICKET / FARE -->
+ <!-- CABIN -->
+ <div>
+  <strong>
+   Cabin No.
+  </strong>
+  <span>
+   C22/26
+  </span>
+ </div>
+ <!-- CABIN -->
+ <!-- DESTINATION -->
+ <!-- DESTINATION -->
+ <!-- RESCUED? -->
+ <div>
+  <strong>
+   Died in the Titanic disaster (
+   <span content="1912-04-15" itemprop="deathDate">
+    15th April 1912
+   </span>
+   )
+  </strong>
+ </div>
+ <!-- RESCUED? -->
+ <!-- DISEMBARKED -->
+ <!-- DISEMBARKED -->
+ <!-- BODY -->
+ <div>
+  <strong>
+   Body recovered by
+  </strong>
+  :
+  <em>
+   <a href="/titanic-bodies-recovered/174/mackay-bennett.html" title="Titanic victims recovered by the Mackay-Bennett">
+    Mackay-Bennett
+   </a>
+  </em>
+  (No.
+  <a href="/description-of-recovered-titanic-bodies.html#135" title="Description of body no. 135">
+   135
+  </a>
+  )
+ </div>
+ <!-- BODY -->
+ <!-- DEATH -->
+ <!-- DEATH -->
+ <!-- CAUSE OF DEATH -->
+ <!-- CAUSE OF DEATH -->
+ <!-- BURIAL -->
+ <strong>
+  Buried:
+ </strong>
+ <a href="/titanic-passengers-crew-buried/3954/maple-ridge-cemetery-chesterville.html" title="Titanic passengers and crew buried in Maple Ridge Cemetery, Chesterville, Ontario, Canada">
+  Maple Ridge Cemetery, Chesterville, Ontario, Canada
+ </a>
+ <!-- BURIAL -->
+ <!-- TRAVEL COMPANIONS -->
+ <div class="my-4">
+  <h3>
+   Linked Biographies
+  </h3>
+  <div>
+   <div class="row align-items-start bg-light p-2 bsumbordervic mb-1" itemprop="spouse" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a data-poload="/cache/bio/3-card.html" href="/titanic-victim/bessie-waldo-allison.html" title="Bess Waldo Allison">
+      <img alt="Bess Waldo Allison" class="img-thumbnail" height="75" loading="lazy" src="/images/bessie-waldo-allison_thm.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/3-card.html" href="/titanic-victim/bessie-waldo-allison.html" itemprop="url" title="Bess Waldo Allison - Mrs">
+      Mrs
+      <span itemprop="name">
+       Bess Waldo Allison
+      </span>
+     </a>
+     <br/>
+     <small>
+      Wife
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 bsumbordervic mb-1" itemprop="children" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a data-poload="/cache/bio/4-card.html" href="/titanic-victim/loraine-allison.html" title="Helen Loraine Allison">
+      <img alt="Helen Loraine Allison" class="img-thumbnail" height="75" loading="lazy" src="/images/allison_children_thm2.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/4-card.html" href="/titanic-victim/loraine-allison.html" itemprop="url" title="Helen Loraine Allison - Miss">
+      Miss
+      <span itemprop="name">
+       Helen Loraine Allison
+      </span>
+     </a>
+     <br/>
+     <small>
+      Daughter
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="children" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a data-poload="/cache/bio/5-card.html" href="/titanic-survivor/trevor-allison.html" title="Hudson Trevor Allison">
+      <img alt="Hudson Trevor Allison" class="img-thumbnail" height="75" loading="lazy" src="/images/allison_children_thm2.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/5-card.html" href="/titanic-survivor/trevor-allison.html" itemprop="url" title="Hudson Trevor Allison - Master">
+      Master
+      <span itemprop="name">
+       Hudson Trevor Allison
+      </span>
+     </a>
+     <br/>
+     <small>
+      Son
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="knows" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a data-poload="/cache/bio/354-card.html" href="/titanic-survivor/mildred-brown.html" title="Amelia Mary Brown">
+      <img alt="Amelia Mary Brown" class="img-thumbnail" height="75" loading="lazy" src="/images/amelia_brown_T.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/354-card.html" href="/titanic-survivor/mildred-brown.html" itemprop="url" title="Amelia Mary Brown - Miss">
+      Miss
+      <span itemprop="name">
+       Amelia Mary Brown
+      </span>
+     </a>
+     <br/>
+     <small>
+      Employee (Cook)
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="knows" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a data-poload="/cache/bio/74-card.html" href="/titanic-survivor/alice-cleaver.html" title="Alice Catherine Cleaver">
+      <img alt="Alice Catherine Cleaver" class="img-thumbnail" height="75" loading="lazy" src="/images/alice-cleaver-T1.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/74-card.html" href="/titanic-survivor/alice-cleaver.html" itemprop="url" title="Alice Catherine Cleaver - Miss">
+      Miss
+      <span itemprop="name">
+       Alice Catherine Cleaver
+      </span>
+     </a>
+     <br/>
+     <small>
+      Children's Nurse
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="knows" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/89-card.html" href="/titanic-survivor/sarah-daniels.html" itemprop="url" title="Sarah Daniels - Miss">
+      Miss
+      <span itemprop="name">
+       Sarah Daniels
+      </span>
+     </a>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 bsumbordervic mb-1" itemprop="knows" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/576-card.html" href="/titanic-victim/george-swane.html" itemprop="url" title="George Swane - Mr">
+      Mr
+      <span itemprop="name">
+       George Swane
+      </span>
+     </a>
+     <br/>
+     <small>
+      Employee (Chauffeur)
+     </small>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+--- Biography ---
+<div class="biosection" id="biography" itemprop="articleBody">
+ <p>
+  Hudson Joshua Creighton Allison was born in Chesterville, Ontario, Canada on 9 December 1881, the son of Jesse Rose Allison and Pheobe Johnston.  He had three siblings: Margaret born on 9 April 1876, George born on 16 October, 1879 and William "percy" born on 21 March 1887.
+ </p>
+ <p>
+  Slender and saturnine, with a good head for figures he was imbued with the Protestant work ethic. Nicknamed "Hud", he worked for a time as a clerk in Chester Casselman's General Store in Chesterville, but at the age of 19, his uncle, George "Frank" Johnston, hired him to head the junior division of the brokerage firm in Montreal he had started with John Wilson McConnell, who would later buy the Montreal Star newspaper. The three men were members of Montreal's so called "Methodist Mafia", upstarts in Canadian financial circles. Allison was sent to Buffalo to learn shorthand, worked as an insurance agent for his uncle at the New York Life Insurance company, then was sent to Winnipeg where he opened an office.
+ </p>
+ <p>
+  During his two years in Winnipeg he lived in a house at the corner of Westminster Avenue. and Sherbrook Street. where he got to know
+  <a data-poload="/cache/bio/112-card.html" href="/titanic-victim/mark-fortune.html" title="Mark Fortune">
+   Mark Fortune
+  </a>
+  and
+  <a data-poload="/cache/bio/20-card.html" href="/titanic-victim/thomson-beattie.html" title="Thomson Beattie">
+   Thomson Beattie
+  </a>
+  .
+ </p>
+ <p>
+  During one of his frequent train trips back to Montreal he met
+  <a data-poload="/cache/bio/3-card.html" href="/titanic-victim/bessie-waldo-allison.html" title="Bess Allison">
+   Bess Waldo Daniels
+  </a>
+  , the young but matronly daughter of an Irish American factory clerk, originally from Massachusetts. They were married in Milwaukee on his 26th birthday (9 December 1907); Bess had just turned 21.
+ </p>
+ <p>
+  The Allisons were devout Methodists - they taught Sunday school, Bible Classes, and Hudson often served as a lay preacher. Their daughter,
+  <a data-poload="/cache/bio/4-card.html" href="/titanic-victim/loraine-allison.html" title="Helen Loraine Allison">
+   Helen Loraine
+  </a>
+  was born 5 June 1909, and their son,
+  <a data-poload="/cache/bio/5-card.html" href="/titanic-survivor/trevor-allison.html" title="Trevor Allison">
+   Hudson Trevor
+  </a>
+  on 7 May 1911. The same year they began the Allison Stock Farm near Winchester, Ontario, and built a new house in Westmount, Quebec.
+ </p>
+ <p>
+  Mr. Allison was on the board of the British Lumber Corporation, and sailed to England for a directors' meeting. While there, they had Trevor baptized at Epworth in the church where Methodist Founder John Wesley had preached. They took a side trip to the Scottish Highlands where Hudson bought two dozen Clydesdales and Hackney Stallions and mares for the stock farm. At the same time, they picked up furniture and recruited household staff for their two residences -
+  <a data-poload="/cache/bio/576-card.html" href="/titanic-victim/george-swane.html" title="George Swane">
+   George Swane
+  </a>
+  was hired as a chauffeur,
+  <a data-poload="/cache/bio/354-card.html" href="/titanic-survivor/mildred-brown.html" title="Mildred Brown">
+   Mildred Brown
+  </a>
+  as a cook,
+  <a data-poload="/cache/bio/74-card.html" href="/titanic-survivor/alice-cleaver.html" title="Alice Cleaver">
+   Alice Cleaver
+  </a>
+  as a nursemaid for Trevor and
+  <a data-poload="/cache/bio/89-card.html" href="/titanic-survivor/sarah-daniels.html" title="Sarah Daniels">
+   Sarah Daniels
+  </a>
+  as a Lady's maid for Bess.
+ </p>
+ <p>
+  Like many others, the Allisons had altered travel plans to sail back with old friends on
+  <em>
+   Titanic.
+  </em>
+  They paid £151 16s for three cabins on the Upper Deck
+  <a data-poload="/image/pop/c22/jpg/" href="/titanic-deckplans/location-c-22-26.html" title="C 22-26 (Allison Family)">
+   C-22/24/26
+  </a>
+  . (ticket number113781). Mr and Mrs Allison were in one suite, Sarah Daniels and Loraine in another and Alice Cleaver and Trevor in the third. The other household servants travelled second class.
+ </p>
+ <p>
+  On the last night of their lives, Hudson and Bess Allison sat down to dinner with
+  <a data-poload="/cache/bio/234-card.html" href="/titanic-survivor/arthur-godfrey-peuchen.html" title="Arthur Peuchen">
+   Major Peuchen
+  </a>
+  and
+  <a data-poload="/cache/bio/212-card.html" href="/titanic-victim/harry-molson.html" title="Harry Molson">
+   Harry Molson
+  </a>
+  ; Bess brought Loraine briefly into the Jacobean dining room so she could see how pretty it was.
+ </p>
+ <p>
+  When the
+  <em>
+   Titanic
+  </em>
+  hit the iceberg, Alice Cleaver took Trevor and left with him in
+  <a data-poload="/cache/boat/11-card.html" href="/titanic-lifeboat-11/" title="Lifeboat 11">
+   lifeboat 11
+  </a>
+  . Bess Allison was put in a boat with Loraine, but refused to leave the ship without her baby. She dragged Loraine out of the boat and started searching for Alice and Trevor.
+ </p>
+ <p>
+  "Mrs Allison could have gotten away in perfect safety," Major Arthur Peuchen told the
+  <em>
+   Montreal Daily Star
+  </em>
+  "But somebody told her Mr Allison was in a boat being lowered on the opposite side of the deck, and with her little daughter she rushed away from the boat. Apparently she reached the other side to find that Mr Allison was not there. Meanwhile, our boat had put off."
+ </p>
+ <p>
+  Bess, Hudson and Loraine perished in the disaster. Only Hudson Allison's body was recovered: #135.
+ </p>
+ <table align="center" background="/img_a/bg_beige.gif" border="1" bordercolor="#000000" cellpadding="10" cellspacing="0" style="border-collapse:collapse; width:500px">
+  <tbody>
+   <tr>
+    <td colstart="1">
+     <p>
+      <tt>
+       <strong>
+        NO. 135. - MALE.
+       </strong>
+      </tt>
+     </p>
+     <p>
+      <tt>
+       <strong>
+        CLOTHING
+       </strong>
+       - Leather coat; blue suit; grey silk muffler.
+      </tt>
+     </p>
+     <p>
+      <tt>
+       <strong>
+        EFFECTS
+       </strong>
+       - Keys; letters; photos; stock book; three pocket diaries; one C. P. Railway ticket book; two pocket books; card case; $143.00 in notes; chain with insurance medals; £15 in gold; $100.00 Thomas Cook &amp; Sons travellers' cheque; £35 in notes; gold cuff links; diamond solitaire ring; gold stud; knife; silver tie clip; $4.40 in odd coins; traveller's ticket.
+      </tt>
+     </p>
+     <p>
+      <tt>
+       <strong>
+        FIRST CLASS.
+        <br/>
+        NAME - H. J. ALLISON.
+       </strong>
+      </tt>
+     </p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <p>
+  Mr Allison's body was buried in the Allison family plot in Maple Ridge cemetery near Winchester, Ont.
+ </p>
+ <p align="CENTER">
+  <a data-fslightbox="lightbox[2]" href="/images/allison_hjc_grave_01.jpg" title="Hudson Allison Grave">
+   <img alt="Grave" height="75" src="/images/allison_hjc_grave_01_thm.jpg" style="border-style:solid; border-width:0px" width="100"/>
+  </a>
+  <a data-fslightbox="lightbox[2]" href="/images/allison_hjc_grave_02.jpg" title="Hudson Allison Grave">
+   <img alt="Grave" height="75" src="/images/allison_hjc_grave_02_thm.jpg" style="border-style:solid; border-width:0px" width="100"/>
+  </a>
+  <a data-fslightbox="lightbox[2]" href="/images/allison_hjc_grave_03.jpg" title="Hudson Allison Grave">
+   <img alt="Inscription" height="75" src="/images/allison_hjc_grave_03_thm.jpg" style="border-style:solid; border-width:0px" width="47"/>
+  </a>
+  <br/>
+  The Allison grave in Maple Ridge Cemetery, Chesterville, Ontario
+  <br/>
+  © Len Wilkins, Canada
+ </p>
+ <p>
+  Funeral services for the Allison family were held at the Douglas Methodist Church in Montreal on Sunday April 21. "The pew in which Mr and Mrs Allison had attended the service of the church so often was draped in black and purple, and in the centre was a huge floral offering from the members of the congregation among whom the young couple were highly esteemed."
+ </p>
+ <p>
+  One month after the funeral, Hudson's brother Percy took delivery of the horses that Allison had arranged to be shipped by tramp steamer from Scotland.
+ </p>
+</div>
+
+
+--- End of Sample ---
+
+==== Sample 3: https://www.encyclopedia-titanica.org/titanic-victim/bessie-waldo-allison.html ====
+
+--- Summary ---
+<div class="mb-3" id="summary">
+ <h3>
+  Titanic Passenger Summary
+ </h3>
+ <!-- NAME -->
+ <div>
+  <strong>
+   Name
+  </strong>
+  :
+  <span itemprop="honorificPrefix">
+   Mrs
+  </span>
+  <span itemprop="name">
+   <span itemprop="givenName">
+    Bess Waldo
+   </span>
+   <span itemprop="familyName">
+    Allison
+   </span>
+  </span>
+  <span itemprop="honorificSuffix">
+  </span>
+  (née Daniels)
+ </div>
+ <!-- SURV -->
+ <div>
+  <a href="/titanic-victims/">
+   Titanic Victim
+  </a>
+ </div>
+ <!-- BIRTH -->
+ <div>
+  <strong>
+   Born
+  </strong>
+  :
+  <a href="/titanic-dates/md-1114.html">
+   <span content="1886-11-14" itemprop="birthDate">
+    Sunday 14th November 1886
+   </span>
+  </a>
+  in
+  <a href="/titanic-passengers-crew-born/396/milwaukee.html" title="Milwaukee, Wisconsin, United States">
+   Milwaukee, Wisconsin, United States
+  </a>
+  <a class="place" data-bs-placement="top" data-bs-toggle="tooltip" data-id="396" data-m_id="3" href="/titanic-places/milwaukee.html" title="Titanic connections to Milwaukee, Wisconsin, United States...">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path d="M256 0c17.7 0 32 14.3 32 32V66.7C368.4 80.1 431.9 143.6 445.3 224H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H445.3C431.9 368.4 368.4 431.9 288 445.3V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V445.3C143.6 431.9 80.1 368.4 66.7 288H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H66.7C80.1 143.6 143.6 80.1 224 66.7V32c0-17.7 14.3-32 32-32zM128 256c0 70.7 57.3 128 128 128s128-57.3 128-128s-57.3-128-128-128s-128 57.3-128 128zm128 80c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80z">
+    </path>
+   </svg>
+  </a>
+  <span content="Milwaukee, Wisconsin, United States" itemprop="birthPlace">
+  </span>
+ </div>
+ <!-- BIRTH -->
+ <!-- AGE / GENDER -->
+ <div>
+  <strong>
+   Age
+  </strong>
+  :
+  <a href="/titanic-ages/25.html">
+   25 years
+  </a>
+  5 months and 1 day (
+  <a href="/titanic-female-passengers/">
+   <span itemprop="gender">
+    Female
+   </span>
+  </a>
+  )
+ </div>
+ <!-- AGE / GENDER -->
+ <!-- VITAL STATS -->
+ <!-- VITAL STATS -->
+ <!-- NATIONALITY -->
+ <div>
+  <strong>
+   Nationality
+  </strong>
+  :
+  <a href="/titanic-passengers-crew-nationality/canadian.html" title="List of Canadian Titanic passengers and crew">
+   <span itemprop="nationality">
+    Canadian
+   </span>
+  </a>
+ </div>
+ <!-- NATIONALITY -->
+ <!-- RELIGION -->
+ <!-- RELIGION -->
+ <!-- MARITAL STATUS -->
+ <div>
+  <strong>
+   Marital Status
+  </strong>
+  :
+  <a href="/titanic-married/" title="List of married Titanic passengers and crew">
+   Married
+  </a>
+  to
+  <span itemprop="spouse">
+   Hudson J.C. Allison
+  </span>
+ </div>
+ <!-- MARITAL STATUS -->
+ <!-- LAST RESIDENCE -->
+ <div>
+  <strong>
+   Last Residence
+  </strong>
+  : in
+  <a href="/titanic-passengers-crew-lived/406/montreal.html" title="Titanic pasengers and crew who lived in Montréal, Québéc, Canada">
+   <span itemprop="homeLocation">
+    Montréal, Québéc, Canada
+   </span>
+  </a>
+  <a data-bs-placement="top" data-bs-toggle="tooltip" href="/titanic-places/montreal.html" title="Titanic connections to Montréal, Québéc, Canada...">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path d="M256 0c17.7 0 32 14.3 32 32V66.7C368.4 80.1 431.9 143.6 445.3 224H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H445.3C431.9 368.4 368.4 431.9 288 445.3V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V445.3C143.6 431.9 80.1 368.4 66.7 288H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H66.7C80.1 143.6 143.6 80.1 224 66.7V32c0-17.7 14.3-32 32-32zM128 256c0 70.7 57.3 128 128 128s128-57.3 128-128s-57.3-128-128-128s-128 57.3-128 128zm128 80c-44.2 0-80-35.8-80-80s35.8-80 80-80s80 35.8 80 80s-35.8 80-80 80z">
+    </path>
+   </svg>
+  </a>
+ </div>
+ <!-- LAST RESIDENCE -->
+ <!-- OCCUPATION -->
+ <!-- OCCUPATION -->
+ <!-- CREW LAST SHIP -->
+ <!-- CREW LAST SHIP -->
+ <!-- CLASS / DEPT -->
+ <div>
+  <a href="/titanic-first-class-passengers/" title="Titanic First Class Passengers">
+   1st Class Passengers
+  </a>
+ </div>
+ <!-- CLASS / DEPT -->
+ <!-- EMBARKATION -->
+ <div>
+  <strong>
+   Embarked
+  </strong>
+  :
+  <a href="/titanic-passengers-crew-embarked/1/southampton.html" title="Titanic passengers and crew that embarked at Southampton">
+   Southampton
+  </a>
+  on Wednesday 10th April 1912
+ </div>
+ <!-- EMBARKATION -->
+ <!-- TICKET / FARE -->
+ <div>
+  <strong>
+   Ticket No
+  </strong>
+  . 113781, £151  16s
+  <span data-bs-placement="top" data-bs-toggle="tooltip" title="In modern currency approximately: £17,638 $24,535 (6 passengers)">
+   <svg class="svgicon" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+     <style>
+      .fa-secondary{opacity:.4}
+     </style>
+    </defs>
+    <path class="fa-secondary" d="M416 311.4c57.3-11.1 96-31.7 96-55.4v-42.7c-23.2 16.4-57.3 27.6-96 34.5zm-4.7-95.1c60-10.8 100.7-32 100.7-56.3v-42.7c-35.5 25.1-96.5 38.6-160.7 41.8 29.5 14.3 51.2 33.5 60 57.2zM512 64c0-35.3-86-64-192-64S128 28.7 128 64s86 64 192 64 192-28.7 192-64z">
+    </path>
+    <path class="fa-primary" d="M192 320c106 0 192-35.8 192-80s-86-80-192-80S0 195.8 0 240s86 80 192 80zM0 405.3V448c0 35.3 86 64 192 64s192-28.7 192-64v-42.7C342.7 434.4 267.2 448 192 448S41.3 434.4 0 405.3zm0-104.9V352c0 35.3 86 64 192 64s192-28.7 192-64v-51.6c-41.3 34-116.9 51.6-192 51.6S41.3 334.4 0 300.4z">
+    </path>
+   </svg>
+  </span>
+ </div>
+ <!-- TICKET / FARE -->
+ <!-- CABIN -->
+ <div>
+  <strong>
+   Cabin No.
+  </strong>
+  <span>
+   C22/26
+  </span>
+ </div>
+ <!-- CABIN -->
+ <!-- DESTINATION -->
+ <!-- DESTINATION -->
+ <!-- RESCUED? -->
+ <div>
+  <strong>
+   Died in the Titanic disaster (
+   <span content="1912-04-15" itemprop="deathDate">
+    15th April 1912
+   </span>
+   )
+  </strong>
+ </div>
+ <!-- RESCUED? -->
+ <!-- DISEMBARKED -->
+ <!-- DISEMBARKED -->
+ <!-- BODY -->
+ <div>
+  <strong>
+   Body Not Identified
+  </strong>
+ </div>
+ <!-- BODY -->
+ <!-- DEATH -->
+ <!-- DEATH -->
+ <!-- CAUSE OF DEATH -->
+ <!-- CAUSE OF DEATH -->
+ <!-- BURIAL -->
+ <!-- BURIAL -->
+ <!-- TRAVEL COMPANIONS -->
+ <div class="my-4">
+  <h3>
+   Linked Biographies
+  </h3>
+  <div>
+   <div class="row align-items-start bg-light p-2 bsumbordervic mb-1" itemprop="spouse" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a data-poload="/cache/bio/2-card.html" href="/titanic-victim/hudson-joshua-creighton.html" title="Hudson Joshua Creighton Allison">
+      <img alt="Hudson Joshua Creighton Allison" class="img-thumbnail" height="75" loading="lazy" src="/files/1/hudson-jc-allison-thm.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/2-card.html" href="/titanic-victim/hudson-joshua-creighton.html" itemprop="url" title="Hudson Joshua Creighton Allison - Mr">
+      Mr
+      <span itemprop="name">
+       Hudson Joshua Creighton Allison
+      </span>
+     </a>
+     <br/>
+     <small>
+      Husband
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 bsumbordervic mb-1" itemprop="children" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a data-poload="/cache/bio/4-card.html" href="/titanic-victim/loraine-allison.html" title="Helen Loraine Allison">
+      <img alt="Helen Loraine Allison" class="img-thumbnail" height="75" loading="lazy" src="/images/allison_children_thm2.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/4-card.html" href="/titanic-victim/loraine-allison.html" itemprop="url" title="Helen Loraine Allison - Miss">
+      Miss
+      <span itemprop="name">
+       Helen Loraine Allison
+      </span>
+     </a>
+     <br/>
+     <small>
+      Daughter
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="children" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a data-poload="/cache/bio/5-card.html" href="/titanic-survivor/trevor-allison.html" title="Hudson Trevor Allison">
+      <img alt="Hudson Trevor Allison" class="img-thumbnail" height="75" loading="lazy" src="/images/allison_children_thm2.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/5-card.html" href="/titanic-survivor/trevor-allison.html" itemprop="url" title="Hudson Trevor Allison - Master">
+      Master
+      <span itemprop="name">
+       Hudson Trevor Allison
+      </span>
+     </a>
+     <br/>
+     <small>
+      Son
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="knows" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a data-poload="/cache/bio/354-card.html" href="/titanic-survivor/mildred-brown.html" title="Amelia Mary Brown">
+      <img alt="Amelia Mary Brown" class="img-thumbnail" height="75" loading="lazy" src="/images/amelia_brown_T.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/354-card.html" href="/titanic-survivor/mildred-brown.html" itemprop="url" title="Amelia Mary Brown - Miss">
+      Miss
+      <span itemprop="name">
+       Amelia Mary Brown
+      </span>
+     </a>
+     <br/>
+     <small>
+      Employee (Cook)
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="knows" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+     <a data-poload="/cache/bio/74-card.html" href="/titanic-survivor/alice-cleaver.html" title="Alice Catherine Cleaver">
+      <img alt="Alice Catherine Cleaver" class="img-thumbnail" height="75" loading="lazy" src="/images/alice-cleaver-T1.jpg" width="100"/>
+     </a>
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/74-card.html" href="/titanic-survivor/alice-cleaver.html" itemprop="url" title="Alice Catherine Cleaver - Miss">
+      Miss
+      <span itemprop="name">
+       Alice Catherine Cleaver
+      </span>
+     </a>
+     <br/>
+     <small>
+      Children's Nurse
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 border mb-1" itemprop="knows" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/89-card.html" href="/titanic-survivor/sarah-daniels.html" itemprop="url" title="Sarah Daniels - Miss">
+      Miss
+      <span itemprop="name">
+       Sarah Daniels
+      </span>
+     </a>
+     <br/>
+     <small>
+      Maid
+     </small>
+    </div>
+   </div>
+   <div class="row align-items-start bg-light p-2 bsumbordervic mb-1" itemprop="knows" itemscope="" itemtype="https://schema.org/Person">
+    <div class="col-3">
+    </div>
+    <div class="col-sm-9">
+     <a data-poload="/cache/bio/576-card.html" href="/titanic-victim/george-swane.html" itemprop="url" title="George Swane - Mr">
+      Mr
+      <span itemprop="name">
+       George Swane
+      </span>
+     </a>
+     <br/>
+     <small>
+      Employee (Chauffeur)
+     </small>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+--- Biography ---
+<div class="biosection" id="biography" itemprop="articleBody">
+ <p>
+  Mrs Hudson J.C. Allison (Bess Waldo Daniels), 25, was born on 14 November 1886, in Milwaukee, Wisconsin. The youngest daughter of Arville Daniels and Sarah McCully. She had an older sister, Mabel who had been born three years earlier in 1883. She also had another sister, Myrtle who had been born in 1873 and was a child from Arville's first marriage to Mary Bowden.
+ </p>
+ <p>
+  Bess met
+  <a data-poload="/cache/bio/2-card.html" href="/titanic-victim/hudson-joshua-creighton.html" title="Hudson Allison">
+   Hudson Allison
+  </a>
+  , a wealthy Montreal stockbroker, on a train in 1907. They married later that year in her home town of Milwaukee, Wisconsin.
+ </p>
+ <p>
+  On 5 June 1909 the couple's first daughter,
+  <a data-poload="/cache/bio/4-card.html" href="/titanic-victim/loraine-allison.html" title="Helen Loraine Allison">
+   Helen Loraine
+  </a>
+  was born. She was soon followed by a brother,
+  <a data-poload="/cache/bio/5-card.html" href="/titanic-survivor/trevor-allison.html" title="Trevor Allison">
+   Hudson Trevor
+  </a>
+  who was born on 7 May 1911.
+ </p>
+ <p>
+  Mrs. Allison was travelling with her husband Hudson and the two children.
+ </p>
+ <p>
+  Mrs Allison, her husband, son and daughter, boarded the
+  <em>
+   Titanic
+  </em>
+  at Southampton as first-class passengers.
+ </p>
+ <p>
+  When the
+  <em>
+   Titanic
+  </em>
+  hit the iceberg,
+  <a data-poload="/cache/bio/74-card.html" href="/titanic-survivor/alice-cleaver.html" title="Alice Cleaver">
+   Alice Cleaver
+  </a>
+  took Trevor and left with him in
+  <a data-poload="/cache/boat/11-card.html" href="/titanic-lifeboat-11/" title="Lifeboat 11">
+   lifeboat 11
+  </a>
+  . Bess Allison was put in a boat with Loraine but refused to leave the ship without her baby. She dragged Loraine out of the boat and started searching for Alice and Trevor.
+ </p>
+ <p>
+  "Mrs Allison could have gotten away in perfect safety,"
+  <a data-poload="/cache/bio/234-card.html" href="/titanic-survivor/arthur-godfrey-peuchen.html" title="Arthur Peuchen">
+   Major Arthur Peuchen
+  </a>
+  told the
+  <em>
+   Montreal Daily Star
+  </em>
+  "But somebody told her Mr Allison was in a boat being lowered on the opposite side of the deck, and with her little daughter she rushed away from the boat. Apparently she reached the other side to find that Mr Allison was not there. Meanwhile, our boat [
+  <a data-poload="/cache/boat/6-card.html" href="/titanic-lifeboat-6/" title="Lifeboat 6">
+   Lifeboat 6
+  </a>
+  ] had put off."
+ </p>
+ <p>
+  Major Peuchen, also gave this account of Mrs. Allison's last moments "She had gone to the deck without her husband, and, frantically seeking him was directed by an officer to the other side of the ship. She failed to find Mr. Allison and was quickly hustled into one of the collapsible life-boats, and when last seen by Major Peuchen she was toppling out of the half-swamped boat."
+ </p>
+ <p>
+  Bess's body, if recovered, was never identified.
+ </p>
+</div>
+
+
+--- End of Sample ---

@@ -2,11 +2,18 @@ default:
   @just --list
 
 
-# View/edit DuckDB database with Harlequin CLI
+# View/edit DuckDB database with DuckDB CLI / WebUI
 duck database:
-    harlequin --theme github-dark {{database}}
+    duckdb --ui {{database}}
 
 
-reqs:
-    pdm export --o requirements.txt --without-hashes --prod
+# reqs:
+#     TODO
 
+
+render:
+    quarto render titanic/titanic-notebook-review.ipynb
+    
+
+view:
+    open titanic/titanic-notebook-review.html 
